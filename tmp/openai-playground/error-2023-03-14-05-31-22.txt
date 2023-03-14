@@ -1,0 +1,5 @@
+Error: Could not find main module for openai
+Error: Error: Could not find main module for openai
+    at kenvImport (file:///Users/liam/.kit/api/npm.js:77:15)
+    at async file:///Users/liam/.kit/api/npm.js:100:12
+    at async file:///Users/liam/.kenv/kenvs/examples/scripts/openai-playground.js?uuid=a8050cd0-1515-4b19-8cef-4d3ed6d22d65:15:36

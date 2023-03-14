@@ -1,0 +1,8 @@
+#!/bin/sh
+
+NODE_NO_WARNINGS=1 \
+KENV=$(cd "$(dirname ${BASH_SOURCE[0]})"/.. &> /dev/null && pwd) \
+/Users/liam/.knode/bin/node \
+/Users/liam/.kit/run/terminal.js \
+/Users/liam/.kenv/scripts/browse-scriptkit.js \
+"$@"

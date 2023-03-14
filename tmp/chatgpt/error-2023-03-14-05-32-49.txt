@@ -1,0 +1,5 @@
+Error: Could not find main module for openai
+Error: Error: Could not find main module for openai
+    at kenvImport (file:///Users/liam/.kit/api/npm.js:77:15)
+    at async file:///Users/liam/.kit/api/npm.js:100:12
+    at async file:///Users/liam/.kenv/kenvs/examples/scripts/chatgpt.js?uuid=16f78302-2c48-4280-81c7-f98a854fd62f:15:1
